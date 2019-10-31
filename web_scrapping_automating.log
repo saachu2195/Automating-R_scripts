@@ -1,0 +1,854 @@
+Loading required package: xml2
+[1] "House Democrats are just trying to invalidate the 2016 election of President Donald Trump : politics"
+ [1] "As a reminder, this subreddit is for civil discussion."                                                                                                                                                                                                               
+ [2] "In general, be courteous to others. Debate/discuss/argue the merits of ideas, don't attack people. Personal insults, shill or troll accusations, hate speech, any advocating or wishing death/physical harm, and other rule violations can result in a permanent ban."
+ [3] "If you see comments in violation of our rules, please report them."                                                                                                                                                                                                   
+ [4] "I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."                                                                                                                      
+ [5] "House Republicans are trying to invalidate the 2018 elections."                                                                                                                                                                                                       
+ [6] "And doing nothing to protect the 2020 elections from foreign interference."                                                                                                                                                                                           
+ [7] "They’re also trying to invalidate the 2008 and 2012 elections."                                                                                                                                                                                                       
+ [8] "House Republican are trying to invalidate the Enlightenment."                                                                                                                                                                                                         
+ [9] "Elections have consequences."                                                                                                                                                                                                                                         
+[10] "Ignoring the midterms, it seems."                                                                                                                                                                                                                                     
+[11] "hey, as long as it gives them warm fuzzies, they'll conveniently forget just about anything."                                                                                                                                                                         
+[12] "\"Americans, not Nancy Pelosi and Adam Schiff, will decide for themselves at the ballot box. That’s how our system works.\""                                                                                                                                          
+[13] "Trump is openly asking foreign countries to interfere in that very election process! (again) This whole \"forget impeachment and let the people vote \" argument is bullshit."                                                                                        
+[14] "will decide for themselves at the ballot box."                                                                                                                                                                                                                        
+[15] "Yeah. The ballot box elected Clinton, you shitweasels."                                                                                                                                                                                                               
+[16] "The EC is constitutional and so is this. Eat a bowl of dicks, GOP."                                                                                                                                                                                                   
+[17] "Let other people vote. Not our people"                                                                                                                                                                                                                                
+[18] "That stuff is fine, but make sure you don’t lie about a consensual blowjob, apparently."                                                                                                                                                                              
+[19] "Republicans are trying to invalidate the Constitution and the rule of law"                                                                                                                                                                                            
+[20] "Damn House Democrats with their Constitution and phony emoluments clause!"                                                                                                                                                                                            
+[21] "If being elected precluded one from ever being impeached and removed then no president could ever be impeached."                                                                                                                                                      
+[22] "The founders explicitly applied the process of impeachment to the office of the president in the constitution. Thus, you are wrong."                                                                                                                                  
+[23] "This “they’re trying to overturn the election!” shit is being said by many of the very same politicians who worked to impeach Bill Clinton."                                                                                                                          
+[24] "By Matt \"abuse of power is not a crime\" Whitaker... Hard Pass."                                                                                                                                                                                                     
+[25] "This is a lie and a terrible argument. Winning an election doesn't mean you can't be kicked out. Impeachment was put in the Constitution for a reason."                                                                                                               
+[26] "Question: If Matt Whitaker fed information, classified or otherwise, about the Mueller investigation to trump and we find evidence, could he be charged with crimes for that?"                                                                                        
+[27] "I mean I guess it could be that, but it could also be that Trump is a criminal."                                                                                                                                                                                      
+[28] "Impeachment Is Not a Coup - And no matter what Trump thinks, the president does not embody the will of the people:"                                                                                                                                                   
+[29] "https://www.nytimes.com/2019/10/30/opinion/trump-impeachment-coup.html"                                                                                                                                                                                               
+[30] "The people spoke in 2018. Elections have consequences. Stop trying to pretend we haven't had an election since 2016."                                                                                                                                                 
+[1] "5 minutes ago"  "11 minutes ago" "11 minutes ago" "11 minutes ago"
+[5] "12 minutes ago" "18 minutes ago" "18 minutes ago" "18 minutes ago"
+[1] "https://www.reddit.com/r/politics/comments/dpt0ls/house_dems_hold_nonvote_to_let_their_committees/" 
+[2] "https://www.reddit.com/r/politics/comments/dpsxbh/trump_and_johnson_drag_their_ruling_parties_to/"  
+[3] "https://www.reddit.com/r/politics/comments/dpsxbg/trump_renews_sanctions_waivers_to_allow_russia/"  
+[4] "https://www.reddit.com/r/politics/comments/dpsx6w/i_work_in_politics_i_refuse_to_let_a_nude_video/" 
+[5] "https://www.reddit.com/r/politics/comments/dpswo4/house_democrats_halloween_display_mourns_passed/" 
+[6] "https://www.reddit.com/r/politics/comments/dpsty6/former_gop_rep_justin_amash_slams_republicans/"   
+[7] "https://www.reddit.com/r/politics/comments/dpsty0/alexandria_ocasiocortez_claps_back_at_trump_with/"
+[8] "https://www.reddit.com/r/politics/comments/dpstp6/state_dept_agrees_to_release_documents_on/"       
+                                                                                                Urls
+1 https://www.reddit.com/r/politics/comments/dpt0ls/house_dems_hold_nonvote_to_let_their_committees/
+2  https://www.reddit.com/r/politics/comments/dpsxbh/trump_and_johnson_drag_their_ruling_parties_to/
+3  https://www.reddit.com/r/politics/comments/dpsxbg/trump_renews_sanctions_waivers_to_allow_russia/
+4 https://www.reddit.com/r/politics/comments/dpsx6w/i_work_in_politics_i_refuse_to_let_a_nude_video/
+5 https://www.reddit.com/r/politics/comments/dpswo4/house_democrats_halloween_display_mourns_passed/
+6   https://www.reddit.com/r/politics/comments/dpsty6/former_gop_rep_justin_amash_slams_republicans/
+            Time
+1  5 minutes ago
+2 11 minutes ago
+3 11 minutes ago
+4 11 minutes ago
+5 12 minutes ago
+6 18 minutes ago
+[1] 8 2
+Error in `[.data.frame`(web_page_times, grep("minutes|now", web_page_times$Time)) : 
+  undefined columns selected
+Calls: [ -> [.data.frame
+Execution halted
+Loading required package: xml2
+[1] "House Democrats are just trying to invalidate the 2016 election of President Donald Trump : politics"
+ [1] "As a reminder, this subreddit is for civil discussion."                                                                                                                                                                                                               
+ [2] "In general, be courteous to others. Debate/discuss/argue the merits of ideas, don't attack people. Personal insults, shill or troll accusations, hate speech, any advocating or wishing death/physical harm, and other rule violations can result in a permanent ban."
+ [3] "If you see comments in violation of our rules, please report them."                                                                                                                                                                                                   
+ [4] "I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."                                                                                                                      
+ [5] "House Republicans are trying to invalidate the 2018 elections."                                                                                                                                                                                                       
+ [6] "And doing nothing to protect the 2020 elections from foreign interference."                                                                                                                                                                                           
+ [7] "They’re also trying to invalidate the 2008 and 2012 elections."                                                                                                                                                                                                       
+ [8] "House Republican are trying to invalidate the Enlightenment."                                                                                                                                                                                                         
+ [9] "Elections have consequences."                                                                                                                                                                                                                                         
+[10] "Ignoring the midterms, it seems."                                                                                                                                                                                                                                     
+[11] "hey, as long as it gives them warm fuzzies, they'll conveniently forget just about anything."                                                                                                                                                                         
+[12] "\"Americans, not Nancy Pelosi and Adam Schiff, will decide for themselves at the ballot box. That’s how our system works.\""                                                                                                                                          
+[13] "Trump is openly asking foreign countries to interfere in that very election process! (again) This whole \"forget impeachment and let the people vote \" argument is bullshit."                                                                                        
+[14] "will decide for themselves at the ballot box."                                                                                                                                                                                                                        
+[15] "Yeah. The ballot box elected Clinton, you shitweasels."                                                                                                                                                                                                               
+[16] "The EC is constitutional and so is this. Eat a bowl of dicks, GOP."                                                                                                                                                                                                   
+[17] "Let other people vote. Not our people"                                                                                                                                                                                                                                
+[18] "That stuff is fine, but make sure you don’t lie about a consensual blowjob, apparently."                                                                                                                                                                              
+[19] "Republicans are trying to invalidate the Constitution and the rule of law"                                                                                                                                                                                            
+[20] "Damn House Democrats with their Constitution and phony emoluments clause!"                                                                                                                                                                                            
+[21] "If being elected precluded one from ever being impeached and removed then no president could ever be impeached."                                                                                                                                                      
+[22] "The founders explicitly applied the process of impeachment to the office of the president in the constitution. Thus, you are wrong."                                                                                                                                  
+[23] "This “they’re trying to overturn the election!” shit is being said by many of the very same politicians who worked to impeach Bill Clinton."                                                                                                                          
+[24] "By Matt \"abuse of power is not a crime\" Whitaker... Hard Pass."                                                                                                                                                                                                     
+[25] "This is a lie and a terrible argument. Winning an election doesn't mean you can't be kicked out. Impeachment was put in the Constitution for a reason."                                                                                                               
+[26] "Question: If Matt Whitaker fed information, classified or otherwise, about the Mueller investigation to trump and we find evidence, could he be charged with crimes for that?"                                                                                        
+[27] "I mean I guess it could be that, but it could also be that Trump is a criminal."                                                                                                                                                                                      
+[28] "Impeachment Is Not a Coup - And no matter what Trump thinks, the president does not embody the will of the people:"                                                                                                                                                   
+[29] "https://www.nytimes.com/2019/10/30/opinion/trump-impeachment-coup.html"                                                                                                                                                                                               
+[30] "The people spoke in 2018. Elections have consequences. Stop trying to pretend we haven't had an election since 2016."                                                                                                                                                 
+[1] "6 minutes ago"  "12 minutes ago" "12 minutes ago" "12 minutes ago"
+[5] "13 minutes ago" "19 minutes ago" "19 minutes ago" "19 minutes ago"
+[1] "https://www.reddit.com/r/politics/comments/dpt0ls/house_dems_hold_nonvote_to_let_their_committees/" 
+[2] "https://www.reddit.com/r/politics/comments/dpsxbh/trump_and_johnson_drag_their_ruling_parties_to/"  
+[3] "https://www.reddit.com/r/politics/comments/dpsxbg/trump_renews_sanctions_waivers_to_allow_russia/"  
+[4] "https://www.reddit.com/r/politics/comments/dpsx6w/i_work_in_politics_i_refuse_to_let_a_nude_video/" 
+[5] "https://www.reddit.com/r/politics/comments/dpswo4/house_democrats_halloween_display_mourns_passed/" 
+[6] "https://www.reddit.com/r/politics/comments/dpsty6/former_gop_rep_justin_amash_slams_republicans/"   
+[7] "https://www.reddit.com/r/politics/comments/dpsty0/alexandria_ocasiocortez_claps_back_at_trump_with/"
+[8] "https://www.reddit.com/r/politics/comments/dpstp6/state_dept_agrees_to_release_documents_on/"       
+                                                                                                Urls
+1 https://www.reddit.com/r/politics/comments/dpt0ls/house_dems_hold_nonvote_to_let_their_committees/
+2  https://www.reddit.com/r/politics/comments/dpsxbh/trump_and_johnson_drag_their_ruling_parties_to/
+3  https://www.reddit.com/r/politics/comments/dpsxbg/trump_renews_sanctions_waivers_to_allow_russia/
+4 https://www.reddit.com/r/politics/comments/dpsx6w/i_work_in_politics_i_refuse_to_let_a_nude_video/
+5 https://www.reddit.com/r/politics/comments/dpswo4/house_democrats_halloween_display_mourns_passed/
+6   https://www.reddit.com/r/politics/comments/dpsty6/former_gop_rep_justin_amash_slams_republicans/
+            Time
+1  6 minutes ago
+2 12 minutes ago
+3 12 minutes ago
+4 12 minutes ago
+5 13 minutes ago
+6 19 minutes ago
+[1] 8 2
+Error in `[.data.frame`(web_page_times, grep("minutes|now", web_page_times$Time)) : 
+  undefined columns selected
+Calls: [ -> [.data.frame
+Execution halted
+Loading required package: xml2
+[1] "House Democrats are just trying to invalidate the 2016 election of President Donald Trump : politics"
+ [1] "As a reminder, this subreddit is for civil discussion."                                                                                                                                                                                                               
+ [2] "In general, be courteous to others. Debate/discuss/argue the merits of ideas, don't attack people. Personal insults, shill or troll accusations, hate speech, any advocating or wishing death/physical harm, and other rule violations can result in a permanent ban."
+ [3] "If you see comments in violation of our rules, please report them."                                                                                                                                                                                                   
+ [4] "I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."                                                                                                                      
+ [5] "House Republicans are trying to invalidate the 2018 elections."                                                                                                                                                                                                       
+ [6] "And doing nothing to protect the 2020 elections from foreign interference."                                                                                                                                                                                           
+ [7] "They’re also trying to invalidate the 2008 and 2012 elections."                                                                                                                                                                                                       
+ [8] "House Republican are trying to invalidate the Enlightenment."                                                                                                                                                                                                         
+ [9] "Elections have consequences."                                                                                                                                                                                                                                         
+[10] "Ignoring the midterms, it seems."                                                                                                                                                                                                                                     
+[11] "hey, as long as it gives them warm fuzzies, they'll conveniently forget just about anything."                                                                                                                                                                         
+[12] "\"Americans, not Nancy Pelosi and Adam Schiff, will decide for themselves at the ballot box. That’s how our system works.\""                                                                                                                                          
+[13] "Trump is openly asking foreign countries to interfere in that very election process! (again) This whole \"forget impeachment and let the people vote \" argument is bullshit."                                                                                        
+[14] "will decide for themselves at the ballot box."                                                                                                                                                                                                                        
+[15] "Yeah. The ballot box elected Clinton, you shitweasels."                                                                                                                                                                                                               
+[16] "The EC is constitutional and so is this. Eat a bowl of dicks, GOP."                                                                                                                                                                                                   
+[17] "Let other people vote. Not our people"                                                                                                                                                                                                                                
+[18] "That stuff is fine, but make sure you don’t lie about a consensual blowjob, apparently."                                                                                                                                                                              
+[19] "Republicans are trying to invalidate the Constitution and the rule of law"                                                                                                                                                                                            
+[20] "Damn House Democrats with their Constitution and phony emoluments clause!"                                                                                                                                                                                            
+[21] "If being elected precluded one from ever being impeached and removed then no president could ever be impeached."                                                                                                                                                      
+[22] "The founders explicitly applied the process of impeachment to the office of the president in the constitution. Thus, you are wrong."                                                                                                                                  
+[23] "This “they’re trying to overturn the election!” shit is being said by many of the very same politicians who worked to impeach Bill Clinton."                                                                                                                          
+[24] "By Matt \"abuse of power is not a crime\" Whitaker... Hard Pass."                                                                                                                                                                                                     
+[25] "This is a lie and a terrible argument. Winning an election doesn't mean you can't be kicked out. Impeachment was put in the Constitution for a reason."                                                                                                               
+[26] "Question: If Matt Whitaker fed information, classified or otherwise, about the Mueller investigation to trump and we find evidence, could he be charged with crimes for that?"                                                                                        
+[27] "I mean I guess it could be that, but it could also be that Trump is a criminal."                                                                                                                                                                                      
+[28] "Impeachment Is Not a Coup - And no matter what Trump thinks, the president does not embody the will of the people:"                                                                                                                                                   
+[29] "https://www.nytimes.com/2019/10/30/opinion/trump-impeachment-coup.html"                                                                                                                                                                                               
+[30] "The people spoke in 2018. Elections have consequences. Stop trying to pretend we haven't had an election since 2016."                                                                                                                                                 
+[1] "just now"       "7 minutes ago"  "13 minutes ago" "13 minutes ago"
+[5] "13 minutes ago" "14 minutes ago" "20 minutes ago" "20 minutes ago"
+[1] "https://www.reddit.com/r/politics/comments/dpt4f0/github_is_trying_to_quell_employee_anger_over_its/"
+[2] "https://www.reddit.com/r/politics/comments/dpt0ls/house_dems_hold_nonvote_to_let_their_committees/"  
+[3] "https://www.reddit.com/r/politics/comments/dpsxbh/trump_and_johnson_drag_their_ruling_parties_to/"   
+[4] "https://www.reddit.com/r/politics/comments/dpsxbg/trump_renews_sanctions_waivers_to_allow_russia/"   
+[5] "https://www.reddit.com/r/politics/comments/dpsx6w/i_work_in_politics_i_refuse_to_let_a_nude_video/"  
+[6] "https://www.reddit.com/r/politics/comments/dpswo4/house_democrats_halloween_display_mourns_passed/"  
+[7] "https://www.reddit.com/r/politics/comments/dpsty6/former_gop_rep_justin_amash_slams_republicans/"    
+[8] "https://www.reddit.com/r/politics/comments/dpsty0/alexandria_ocasiocortez_claps_back_at_trump_with/" 
+                                                                                                  Urls
+1 https://www.reddit.com/r/politics/comments/dpt4f0/github_is_trying_to_quell_employee_anger_over_its/
+2   https://www.reddit.com/r/politics/comments/dpt0ls/house_dems_hold_nonvote_to_let_their_committees/
+3    https://www.reddit.com/r/politics/comments/dpsxbh/trump_and_johnson_drag_their_ruling_parties_to/
+4    https://www.reddit.com/r/politics/comments/dpsxbg/trump_renews_sanctions_waivers_to_allow_russia/
+5   https://www.reddit.com/r/politics/comments/dpsx6w/i_work_in_politics_i_refuse_to_let_a_nude_video/
+6   https://www.reddit.com/r/politics/comments/dpswo4/house_democrats_halloween_display_mourns_passed/
+            Time
+1       just now
+2  7 minutes ago
+3 13 minutes ago
+4 13 minutes ago
+5 13 minutes ago
+6 14 minutes ago
+[1] 8 2
+Error in `[.data.frame`(web_page_times, grep("minutes|now", web_page_times$Time)) : 
+  undefined columns selected
+Calls: [ -> [.data.frame
+Execution halted
+Loading required package: xml2
+[1] "House Democrats are just trying to invalidate the 2016 election of President Donald Trump : politics"
+ [1] "As a reminder, this subreddit is for civil discussion."                                                                                                                                                                                                               
+ [2] "In general, be courteous to others. Debate/discuss/argue the merits of ideas, don't attack people. Personal insults, shill or troll accusations, hate speech, any advocating or wishing death/physical harm, and other rule violations can result in a permanent ban."
+ [3] "If you see comments in violation of our rules, please report them."                                                                                                                                                                                                   
+ [4] "I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."                                                                                                                      
+ [5] "House Republicans are trying to invalidate the 2018 elections."                                                                                                                                                                                                       
+ [6] "And doing nothing to protect the 2020 elections from foreign interference."                                                                                                                                                                                           
+ [7] "They’re also trying to invalidate the 2008 and 2012 elections."                                                                                                                                                                                                       
+ [8] "House Republican are trying to invalidate the Enlightenment."                                                                                                                                                                                                         
+ [9] "Elections have consequences."                                                                                                                                                                                                                                         
+[10] "Ignoring the midterms, it seems."                                                                                                                                                                                                                                     
+[11] "hey, as long as it gives them warm fuzzies, they'll conveniently forget just about anything."                                                                                                                                                                         
+[12] "\"Americans, not Nancy Pelosi and Adam Schiff, will decide for themselves at the ballot box. That’s how our system works.\""                                                                                                                                          
+[13] "Trump is openly asking foreign countries to interfere in that very election process! (again) This whole \"forget impeachment and let the people vote \" argument is bullshit."                                                                                        
+[14] "will decide for themselves at the ballot box."                                                                                                                                                                                                                        
+[15] "Yeah. The ballot box elected Clinton, you shitweasels."                                                                                                                                                                                                               
+[16] "The EC is constitutional and so is this. Eat a bowl of dicks, GOP."                                                                                                                                                                                                   
+[17] "Let other people vote. Not our people"                                                                                                                                                                                                                                
+[18] "That stuff is fine, but make sure you don’t lie about a consensual blowjob, apparently."                                                                                                                                                                              
+[19] "Republicans are trying to invalidate the Constitution and the rule of law"                                                                                                                                                                                            
+[20] "Damn House Democrats with their Constitution and phony emoluments clause!"                                                                                                                                                                                            
+[21] "If being elected precluded one from ever being impeached and removed then no president could ever be impeached."                                                                                                                                                      
+[22] "The founders explicitly applied the process of impeachment to the office of the president in the constitution. Thus, you are wrong."                                                                                                                                  
+[23] "This “they’re trying to overturn the election!” shit is being said by many of the very same politicians who worked to impeach Bill Clinton."                                                                                                                          
+[24] "By Matt \"abuse of power is not a crime\" Whitaker... Hard Pass."                                                                                                                                                                                                     
+[25] "This is a lie and a terrible argument. Winning an election doesn't mean you can't be kicked out. Impeachment was put in the Constitution for a reason."                                                                                                               
+[26] "Question: If Matt Whitaker fed information, classified or otherwise, about the Mueller investigation to trump and we find evidence, could he be charged with crimes for that?"                                                                                        
+[27] "I mean I guess it could be that, but it could also be that Trump is a criminal."                                                                                                                                                                                      
+[28] "Impeachment Is Not a Coup - And no matter what Trump thinks, the president does not embody the will of the people:"                                                                                                                                                   
+[29] "https://www.nytimes.com/2019/10/30/opinion/trump-impeachment-coup.html"                                                                                                                                                                                               
+[30] "The people spoke in 2018. Elections have consequences. Stop trying to pretend we haven't had an election since 2016."                                                                                                                                                 
+[1] "1 minute ago"   "8 minutes ago"  "14 minutes ago" "14 minutes ago"
+[5] "14 minutes ago" "15 minutes ago" "21 minutes ago" "21 minutes ago"
+[1] "https://www.reddit.com/r/politics/comments/dpt4f0/github_is_trying_to_quell_employee_anger_over_its/"
+[2] "https://www.reddit.com/r/politics/comments/dpt0ls/house_dems_hold_nonvote_to_let_their_committees/"  
+[3] "https://www.reddit.com/r/politics/comments/dpsxbh/trump_and_johnson_drag_their_ruling_parties_to/"   
+[4] "https://www.reddit.com/r/politics/comments/dpsxbg/trump_renews_sanctions_waivers_to_allow_russia/"   
+[5] "https://www.reddit.com/r/politics/comments/dpsx6w/i_work_in_politics_i_refuse_to_let_a_nude_video/"  
+[6] "https://www.reddit.com/r/politics/comments/dpswo4/house_democrats_halloween_display_mourns_passed/"  
+[7] "https://www.reddit.com/r/politics/comments/dpsty6/former_gop_rep_justin_amash_slams_republicans/"    
+[8] "https://www.reddit.com/r/politics/comments/dpsty0/alexandria_ocasiocortez_claps_back_at_trump_with/" 
+                                                                                                  Urls
+1 https://www.reddit.com/r/politics/comments/dpt4f0/github_is_trying_to_quell_employee_anger_over_its/
+2   https://www.reddit.com/r/politics/comments/dpt0ls/house_dems_hold_nonvote_to_let_their_committees/
+3    https://www.reddit.com/r/politics/comments/dpsxbh/trump_and_johnson_drag_their_ruling_parties_to/
+4    https://www.reddit.com/r/politics/comments/dpsxbg/trump_renews_sanctions_waivers_to_allow_russia/
+5   https://www.reddit.com/r/politics/comments/dpsx6w/i_work_in_politics_i_refuse_to_let_a_nude_video/
+6   https://www.reddit.com/r/politics/comments/dpswo4/house_democrats_halloween_display_mourns_passed/
+            Time
+1   1 minute ago
+2  8 minutes ago
+3 14 minutes ago
+4 14 minutes ago
+5 14 minutes ago
+6 15 minutes ago
+[1] 8 2
+Error in `[.data.frame`(web_page_times, grep("minutes|now", web_page_times$Time)) : 
+  undefined columns selected
+Calls: [ -> [.data.frame
+Execution halted
+Loading required package: xml2
+[1] "House Democrats are just trying to invalidate the 2016 election of President Donald Trump : politics"
+ [1] "As a reminder, this subreddit is for civil discussion."                                                                                                                                                                                                               
+ [2] "In general, be courteous to others. Debate/discuss/argue the merits of ideas, don't attack people. Personal insults, shill or troll accusations, hate speech, any advocating or wishing death/physical harm, and other rule violations can result in a permanent ban."
+ [3] "If you see comments in violation of our rules, please report them."                                                                                                                                                                                                   
+ [4] "I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."                                                                                                                      
+ [5] "House Republicans are trying to invalidate the 2018 elections."                                                                                                                                                                                                       
+ [6] "And doing nothing to protect the 2020 elections from foreign interference."                                                                                                                                                                                           
+ [7] "They’re also trying to invalidate the 2008 and 2012 elections."                                                                                                                                                                                                       
+ [8] "House Republican are trying to invalidate the Enlightenment."                                                                                                                                                                                                         
+ [9] "Elections have consequences."                                                                                                                                                                                                                                         
+[10] "Ignoring the midterms, it seems."                                                                                                                                                                                                                                     
+[11] "hey, as long as it gives them warm fuzzies, they'll conveniently forget just about anything."                                                                                                                                                                         
+[12] "\"Americans, not Nancy Pelosi and Adam Schiff, will decide for themselves at the ballot box. That’s how our system works.\""                                                                                                                                          
+[13] "Trump is openly asking foreign countries to interfere in that very election process! (again) This whole \"forget impeachment and let the people vote \" argument is bullshit."                                                                                        
+[14] "will decide for themselves at the ballot box."                                                                                                                                                                                                                        
+[15] "Yeah. The ballot box elected Clinton, you shitweasels."                                                                                                                                                                                                               
+[16] "The EC is constitutional and so is this. Eat a bowl of dicks, GOP."                                                                                                                                                                                                   
+[17] "Let other people vote. Not our people"                                                                                                                                                                                                                                
+[18] "That stuff is fine, but make sure you don’t lie about a consensual blowjob, apparently."                                                                                                                                                                              
+[19] "Republicans are trying to invalidate the Constitution and the rule of law"                                                                                                                                                                                            
+[20] "Damn House Democrats with their Constitution and phony emoluments clause!"                                                                                                                                                                                            
+[21] "If being elected precluded one from ever being impeached and removed then no president could ever be impeached."                                                                                                                                                      
+[22] "The founders explicitly applied the process of impeachment to the office of the president in the constitution. Thus, you are wrong."                                                                                                                                  
+[23] "This “they’re trying to overturn the election!” shit is being said by many of the very same politicians who worked to impeach Bill Clinton."                                                                                                                          
+[24] "By Matt \"abuse of power is not a crime\" Whitaker... Hard Pass."                                                                                                                                                                                                     
+[25] "This is a lie and a terrible argument. Winning an election doesn't mean you can't be kicked out. Impeachment was put in the Constitution for a reason."                                                                                                               
+[26] "Question: If Matt Whitaker fed information, classified or otherwise, about the Mueller investigation to trump and we find evidence, could he be charged with crimes for that?"                                                                                        
+[27] "I mean I guess it could be that, but it could also be that Trump is a criminal."                                                                                                                                                                                      
+[28] "Impeachment Is Not a Coup - And no matter what Trump thinks, the president does not embody the will of the people:"                                                                                                                                                   
+[29] "https://www.nytimes.com/2019/10/30/opinion/trump-impeachment-coup.html"                                                                                                                                                                                               
+[30] "The people spoke in 2018. Elections have consequences. Stop trying to pretend we haven't had an election since 2016."                                                                                                                                                 
+[1] "2 minutes ago"  "9 minutes ago"  "15 minutes ago" "15 minutes ago"
+[5] "15 minutes ago" "16 minutes ago" "22 minutes ago" "22 minutes ago"
+[1] "https://www.reddit.com/r/politics/comments/dpt4f0/github_is_trying_to_quell_employee_anger_over_its/"
+[2] "https://www.reddit.com/r/politics/comments/dpt0ls/house_dems_hold_nonvote_to_let_their_committees/"  
+[3] "https://www.reddit.com/r/politics/comments/dpsxbh/trump_and_johnson_drag_their_ruling_parties_to/"   
+[4] "https://www.reddit.com/r/politics/comments/dpsxbg/trump_renews_sanctions_waivers_to_allow_russia/"   
+[5] "https://www.reddit.com/r/politics/comments/dpsx6w/i_work_in_politics_i_refuse_to_let_a_nude_video/"  
+[6] "https://www.reddit.com/r/politics/comments/dpswo4/house_democrats_halloween_display_mourns_passed/"  
+[7] "https://www.reddit.com/r/politics/comments/dpsty6/former_gop_rep_justin_amash_slams_republicans/"    
+[8] "https://www.reddit.com/r/politics/comments/dpsty0/alexandria_ocasiocortez_claps_back_at_trump_with/" 
+                                                                                                  Urls
+1 https://www.reddit.com/r/politics/comments/dpt4f0/github_is_trying_to_quell_employee_anger_over_its/
+2   https://www.reddit.com/r/politics/comments/dpt0ls/house_dems_hold_nonvote_to_let_their_committees/
+3    https://www.reddit.com/r/politics/comments/dpsxbh/trump_and_johnson_drag_their_ruling_parties_to/
+4    https://www.reddit.com/r/politics/comments/dpsxbg/trump_renews_sanctions_waivers_to_allow_russia/
+5   https://www.reddit.com/r/politics/comments/dpsx6w/i_work_in_politics_i_refuse_to_let_a_nude_video/
+6   https://www.reddit.com/r/politics/comments/dpswo4/house_democrats_halloween_display_mourns_passed/
+            Time
+1  2 minutes ago
+2  9 minutes ago
+3 15 minutes ago
+4 15 minutes ago
+5 15 minutes ago
+6 16 minutes ago
+[1] 8 2
+Error in `[.data.frame`(web_page_times, grep("minutes|now", web_page_times$Time)) : 
+  undefined columns selected
+Calls: [ -> [.data.frame
+Execution halted
+Loading required package: xml2
+[1] "House Democrats are just trying to invalidate the 2016 election of President Donald Trump : politics"
+ [1] "As a reminder, this subreddit is for civil discussion."                                                                                                                                                                                                               
+ [2] "In general, be courteous to others. Debate/discuss/argue the merits of ideas, don't attack people. Personal insults, shill or troll accusations, hate speech, any advocating or wishing death/physical harm, and other rule violations can result in a permanent ban."
+ [3] "If you see comments in violation of our rules, please report them."                                                                                                                                                                                                   
+ [4] "I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."                                                                                                                      
+ [5] "House Republicans are trying to invalidate the 2018 elections."                                                                                                                                                                                                       
+ [6] "And doing nothing to protect the 2020 elections from foreign interference."                                                                                                                                                                                           
+ [7] "They’re also trying to invalidate the 2008 and 2012 elections."                                                                                                                                                                                                       
+ [8] "House Republican are trying to invalidate the Enlightenment."                                                                                                                                                                                                         
+ [9] "Elections have consequences."                                                                                                                                                                                                                                         
+[10] "Ignoring the midterms, it seems."                                                                                                                                                                                                                                     
+[11] "hey, as long as it gives them warm fuzzies, they'll conveniently forget just about anything."                                                                                                                                                                         
+[12] "\"Americans, not Nancy Pelosi and Adam Schiff, will decide for themselves at the ballot box. That’s how our system works.\""                                                                                                                                          
+[13] "Trump is openly asking foreign countries to interfere in that very election process! (again) This whole \"forget impeachment and let the people vote \" argument is bullshit."                                                                                        
+[14] "will decide for themselves at the ballot box."                                                                                                                                                                                                                        
+[15] "Yeah. The ballot box elected Clinton, you shitweasels."                                                                                                                                                                                                               
+[16] "The EC is constitutional and so is this. Eat a bowl of dicks, GOP."                                                                                                                                                                                                   
+[17] "Let other people vote. Not our people"                                                                                                                                                                                                                                
+[18] "That stuff is fine, but make sure you don’t lie about a consensual blowjob, apparently."                                                                                                                                                                              
+[19] "Republicans are trying to invalidate the Constitution and the rule of law"                                                                                                                                                                                            
+[20] "Damn House Democrats with their Constitution and phony emoluments clause!"                                                                                                                                                                                            
+[21] "If being elected precluded one from ever being impeached and removed then no president could ever be impeached."                                                                                                                                                      
+[22] "The founders explicitly applied the process of impeachment to the office of the president in the constitution. Thus, you are wrong."                                                                                                                                  
+[23] "This “they’re trying to overturn the election!” shit is being said by many of the very same politicians who worked to impeach Bill Clinton."                                                                                                                          
+[24] "By Matt \"abuse of power is not a crime\" Whitaker... Hard Pass."                                                                                                                                                                                                     
+[25] "This is a lie and a terrible argument. Winning an election doesn't mean you can't be kicked out. Impeachment was put in the Constitution for a reason."                                                                                                               
+[26] "Question: If Matt Whitaker fed information, classified or otherwise, about the Mueller investigation to trump and we find evidence, could he be charged with crimes for that?"                                                                                        
+[27] "I mean I guess it could be that, but it could also be that Trump is a criminal."                                                                                                                                                                                      
+[28] "Impeachment Is Not a Coup - And no matter what Trump thinks, the president does not embody the will of the people:"                                                                                                                                                   
+[29] "https://www.nytimes.com/2019/10/30/opinion/trump-impeachment-coup.html"                                                                                                                                                                                               
+[30] "The people spoke in 2018. Elections have consequences. Stop trying to pretend we haven't had an election since 2016."                                                                                                                                                 
+[1] "3 minutes ago"  "10 minutes ago" "16 minutes ago" "16 minutes ago"
+[5] "16 minutes ago" "17 minutes ago" "23 minutes ago" "23 minutes ago"
+[1] "https://www.reddit.com/r/politics/comments/dpt4f0/github_is_trying_to_quell_employee_anger_over_its/"
+[2] "https://www.reddit.com/r/politics/comments/dpt0ls/house_dems_hold_nonvote_to_let_their_committees/"  
+[3] "https://www.reddit.com/r/politics/comments/dpsxbh/trump_and_johnson_drag_their_ruling_parties_to/"   
+[4] "https://www.reddit.com/r/politics/comments/dpsxbg/trump_renews_sanctions_waivers_to_allow_russia/"   
+[5] "https://www.reddit.com/r/politics/comments/dpsx6w/i_work_in_politics_i_refuse_to_let_a_nude_video/"  
+[6] "https://www.reddit.com/r/politics/comments/dpswo4/house_democrats_halloween_display_mourns_passed/"  
+[7] "https://www.reddit.com/r/politics/comments/dpsty6/former_gop_rep_justin_amash_slams_republicans/"    
+[8] "https://www.reddit.com/r/politics/comments/dpsty0/alexandria_ocasiocortez_claps_back_at_trump_with/" 
+                                                                                                  Urls
+1 https://www.reddit.com/r/politics/comments/dpt4f0/github_is_trying_to_quell_employee_anger_over_its/
+2   https://www.reddit.com/r/politics/comments/dpt0ls/house_dems_hold_nonvote_to_let_their_committees/
+3    https://www.reddit.com/r/politics/comments/dpsxbh/trump_and_johnson_drag_their_ruling_parties_to/
+4    https://www.reddit.com/r/politics/comments/dpsxbg/trump_renews_sanctions_waivers_to_allow_russia/
+5   https://www.reddit.com/r/politics/comments/dpsx6w/i_work_in_politics_i_refuse_to_let_a_nude_video/
+6   https://www.reddit.com/r/politics/comments/dpswo4/house_democrats_halloween_display_mourns_passed/
+            Time
+1  3 minutes ago
+2 10 minutes ago
+3 16 minutes ago
+4 16 minutes ago
+5 16 minutes ago
+6 17 minutes ago
+[1] 8 2
+Error in `[.data.frame`(web_page_times, grep("minutes|now", web_page_times$Time)) : 
+  undefined columns selected
+Calls: [ -> [.data.frame
+Execution halted
+Loading required package: xml2
+[1] "House Democrats are just trying to invalidate the 2016 election of President Donald Trump : politics"
+ [1] "As a reminder, this subreddit is for civil discussion."                                                                                                                                                                                                               
+ [2] "In general, be courteous to others. Debate/discuss/argue the merits of ideas, don't attack people. Personal insults, shill or troll accusations, hate speech, any advocating or wishing death/physical harm, and other rule violations can result in a permanent ban."
+ [3] "If you see comments in violation of our rules, please report them."                                                                                                                                                                                                   
+ [4] "I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."                                                                                                                      
+ [5] "House Republicans are trying to invalidate the 2018 elections."                                                                                                                                                                                                       
+ [6] "And doing nothing to protect the 2020 elections from foreign interference."                                                                                                                                                                                           
+ [7] "They’re also trying to invalidate the 2008 and 2012 elections."                                                                                                                                                                                                       
+ [8] "House Republican are trying to invalidate the Enlightenment."                                                                                                                                                                                                         
+ [9] "Elections have consequences."                                                                                                                                                                                                                                         
+[10] "Ignoring the midterms, it seems."                                                                                                                                                                                                                                     
+[11] "hey, as long as it gives them warm fuzzies, they'll conveniently forget just about anything."                                                                                                                                                                         
+[12] "\"Americans, not Nancy Pelosi and Adam Schiff, will decide for themselves at the ballot box. That’s how our system works.\""                                                                                                                                          
+[13] "Trump is openly asking foreign countries to interfere in that very election process! (again) This whole \"forget impeachment and let the people vote \" argument is bullshit."                                                                                        
+[14] "will decide for themselves at the ballot box."                                                                                                                                                                                                                        
+[15] "Yeah. The ballot box elected Clinton, you shitweasels."                                                                                                                                                                                                               
+[16] "The EC is constitutional and so is this. Eat a bowl of dicks, GOP."                                                                                                                                                                                                   
+[17] "Let other people vote. Not our people"                                                                                                                                                                                                                                
+[18] "That stuff is fine, but make sure you don’t lie about a consensual blowjob, apparently."                                                                                                                                                                              
+[19] "Republicans are trying to invalidate the Constitution and the rule of law"                                                                                                                                                                                            
+[20] "Damn House Democrats with their Constitution and phony emoluments clause!"                                                                                                                                                                                            
+[21] "If being elected precluded one from ever being impeached and removed then no president could ever be impeached."                                                                                                                                                      
+[22] "The founders explicitly applied the process of impeachment to the office of the president in the constitution. Thus, you are wrong."                                                                                                                                  
+[23] "This “they’re trying to overturn the election!” shit is being said by many of the very same politicians who worked to impeach Bill Clinton."                                                                                                                          
+[24] "By Matt \"abuse of power is not a crime\" Whitaker... Hard Pass."                                                                                                                                                                                                     
+[25] "This is a lie and a terrible argument. Winning an election doesn't mean you can't be kicked out. Impeachment was put in the Constitution for a reason."                                                                                                               
+[26] "Question: If Matt Whitaker fed information, classified or otherwise, about the Mueller investigation to trump and we find evidence, could he be charged with crimes for that?"                                                                                        
+[27] "I mean I guess it could be that, but it could also be that Trump is a criminal."                                                                                                                                                                                      
+[28] "Impeachment Is Not a Coup - And no matter what Trump thinks, the president does not embody the will of the people:"                                                                                                                                                   
+[29] "https://www.nytimes.com/2019/10/30/opinion/trump-impeachment-coup.html"                                                                                                                                                                                               
+[30] "The people spoke in 2018. Elections have consequences. Stop trying to pretend we haven't had an election since 2016."                                                                                                                                                 
+[1] "just now"       "4 minutes ago"  "11 minutes ago" "17 minutes ago"
+[5] "17 minutes ago" "17 minutes ago" "18 minutes ago" "24 minutes ago"
+[1] "https://www.reddit.com/r/politics/comments/dpt6d4/an_elizabeth_warren_presidency_may_not_be_as_bad/" 
+[2] "https://www.reddit.com/r/politics/comments/dpt4f0/github_is_trying_to_quell_employee_anger_over_its/"
+[3] "https://www.reddit.com/r/politics/comments/dpt0ls/house_dems_hold_nonvote_to_let_their_committees/"  
+[4] "https://www.reddit.com/r/politics/comments/dpsxbh/trump_and_johnson_drag_their_ruling_parties_to/"   
+[5] "https://www.reddit.com/r/politics/comments/dpsxbg/trump_renews_sanctions_waivers_to_allow_russia/"   
+[6] "https://www.reddit.com/r/politics/comments/dpsx6w/i_work_in_politics_i_refuse_to_let_a_nude_video/"  
+[7] "https://www.reddit.com/r/politics/comments/dpswo4/house_democrats_halloween_display_mourns_passed/"  
+[8] "https://www.reddit.com/r/politics/comments/dpsty6/former_gop_rep_justin_amash_slams_republicans/"    
+                                                                                                  Urls
+1  https://www.reddit.com/r/politics/comments/dpt6d4/an_elizabeth_warren_presidency_may_not_be_as_bad/
+2 https://www.reddit.com/r/politics/comments/dpt4f0/github_is_trying_to_quell_employee_anger_over_its/
+3   https://www.reddit.com/r/politics/comments/dpt0ls/house_dems_hold_nonvote_to_let_their_committees/
+4    https://www.reddit.com/r/politics/comments/dpsxbh/trump_and_johnson_drag_their_ruling_parties_to/
+5    https://www.reddit.com/r/politics/comments/dpsxbg/trump_renews_sanctions_waivers_to_allow_russia/
+6   https://www.reddit.com/r/politics/comments/dpsx6w/i_work_in_politics_i_refuse_to_let_a_nude_video/
+            Time
+1       just now
+2  4 minutes ago
+3 11 minutes ago
+4 17 minutes ago
+5 17 minutes ago
+6 17 minutes ago
+[1] 8 2
+Error in `[.data.frame`(web_page_times, grep("minutes|now", web_page_times$Time)) : 
+  undefined columns selected
+Calls: [ -> [.data.frame
+Execution halted
+Loading required package: xml2
+[1] "House Democrats are just trying to invalidate the 2016 election of President Donald Trump : politics"
+ [1] "As a reminder, this subreddit is for civil discussion."                                                                                                                                                                                                               
+ [2] "In general, be courteous to others. Debate/discuss/argue the merits of ideas, don't attack people. Personal insults, shill or troll accusations, hate speech, any advocating or wishing death/physical harm, and other rule violations can result in a permanent ban."
+ [3] "If you see comments in violation of our rules, please report them."                                                                                                                                                                                                   
+ [4] "I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."                                                                                                                      
+ [5] "House Republicans are trying to invalidate the 2018 elections."                                                                                                                                                                                                       
+ [6] "And doing nothing to protect the 2020 elections from foreign interference."                                                                                                                                                                                           
+ [7] "They’re also trying to invalidate the 2008 and 2012 elections."                                                                                                                                                                                                       
+ [8] "House Republican are trying to invalidate the Enlightenment."                                                                                                                                                                                                         
+ [9] "Elections have consequences."                                                                                                                                                                                                                                         
+[10] "Ignoring the midterms, it seems."                                                                                                                                                                                                                                     
+[11] "hey, as long as it gives them warm fuzzies, they'll conveniently forget just about anything."                                                                                                                                                                         
+[12] "\"Americans, not Nancy Pelosi and Adam Schiff, will decide for themselves at the ballot box. That’s how our system works.\""                                                                                                                                          
+[13] "Trump is openly asking foreign countries to interfere in that very election process! (again) This whole \"forget impeachment and let the people vote \" argument is bullshit."                                                                                        
+[14] "will decide for themselves at the ballot box."                                                                                                                                                                                                                        
+[15] "Yeah. The ballot box elected Clinton, you shitweasels."                                                                                                                                                                                                               
+[16] "The EC is constitutional and so is this. Eat a bowl of dicks, GOP."                                                                                                                                                                                                   
+[17] "Let other people vote. Not our people"                                                                                                                                                                                                                                
+[18] "That stuff is fine, but make sure you don’t lie about a consensual blowjob, apparently."                                                                                                                                                                              
+[19] "Republicans are trying to invalidate the Constitution and the rule of law"                                                                                                                                                                                            
+[20] "Damn House Democrats with their Constitution and phony emoluments clause!"                                                                                                                                                                                            
+[21] "If being elected precluded one from ever being impeached and removed then no president could ever be impeached."                                                                                                                                                      
+[22] "The founders explicitly applied the process of impeachment to the office of the president in the constitution. Thus, you are wrong."                                                                                                                                  
+[23] "This “they’re trying to overturn the election!” shit is being said by many of the very same politicians who worked to impeach Bill Clinton."                                                                                                                          
+[24] "By Matt \"abuse of power is not a crime\" Whitaker... Hard Pass."                                                                                                                                                                                                     
+[25] "This is a lie and a terrible argument. Winning an election doesn't mean you can't be kicked out. Impeachment was put in the Constitution for a reason."                                                                                                               
+[26] "Question: If Matt Whitaker fed information, classified or otherwise, about the Mueller investigation to trump and we find evidence, could he be charged with crimes for that?"                                                                                        
+[27] "I mean I guess it could be that, but it could also be that Trump is a criminal."                                                                                                                                                                                      
+[28] "Impeachment Is Not a Coup - And no matter what Trump thinks, the president does not embody the will of the people:"                                                                                                                                                   
+[29] "https://www.nytimes.com/2019/10/30/opinion/trump-impeachment-coup.html"                                                                                                                                                                                               
+[30] "The people spoke in 2018. Elections have consequences. Stop trying to pretend we haven't had an election since 2016."                                                                                                                                                 
+[1] "just now"      "just now"      "1 minute ago"  "3 minutes ago"
+[5] "3 minutes ago" "4 minutes ago" "7 minutes ago" "8 minutes ago"
+[1] "https://www.reddit.com/r/politics/comments/dptabi/grassley_on_impeachment_democrats_trying_to_undo/"
+[2] "https://www.reddit.com/r/politics/comments/dpta1g/evans_theres_too_little_talk_about_corporate/"    
+[3] "https://www.reddit.com/r/politics/comments/dpta0d/sums_it_up_dem_rep_dresses_in_batman_costume_as/" 
+[4] "https://www.reddit.com/r/politics/comments/dpt8qz/republicans_should_reject_the_houses_recent/"     
+[5] "https://www.reddit.com/r/politics/comments/dpt8kf/in_the_documents_interior_department_officials/"  
+[6] "https://www.reddit.com/r/politics/comments/dpt84m/edward_snowden_says_facebook_is_just_as/"         
+[7] "https://www.reddit.com/r/politics/comments/dpt6wl/number_of_uninsured_children_rises_in_15_states/" 
+[8] "https://www.reddit.com/r/politics/comments/dpt6d4/an_elizabeth_warren_presidency_may_not_be_as_bad/"
+                                                                                                 Urls
+1 https://www.reddit.com/r/politics/comments/dptabi/grassley_on_impeachment_democrats_trying_to_undo/
+2     https://www.reddit.com/r/politics/comments/dpta1g/evans_theres_too_little_talk_about_corporate/
+3  https://www.reddit.com/r/politics/comments/dpta0d/sums_it_up_dem_rep_dresses_in_batman_costume_as/
+4      https://www.reddit.com/r/politics/comments/dpt8qz/republicans_should_reject_the_houses_recent/
+5   https://www.reddit.com/r/politics/comments/dpt8kf/in_the_documents_interior_department_officials/
+6          https://www.reddit.com/r/politics/comments/dpt84m/edward_snowden_says_facebook_is_just_as/
+           Time
+1      just now
+2      just now
+3  1 minute ago
+4 3 minutes ago
+5 3 minutes ago
+6 4 minutes ago
+[1] 8 2
+Error in `[.data.frame`(web_page_times, grep("minutes|now", web_page_times$Time)) : 
+  undefined columns selected
+Calls: [ -> [.data.frame
+Execution halted
+Loading required package: xml2
+[1] "House Democrats are just trying to invalidate the 2016 election of President Donald Trump : politics"
+ [1] "As a reminder, this subreddit is for civil discussion."                                                                                                                                                                                                               
+ [2] "In general, be courteous to others. Debate/discuss/argue the merits of ideas, don't attack people. Personal insults, shill or troll accusations, hate speech, any advocating or wishing death/physical harm, and other rule violations can result in a permanent ban."
+ [3] "If you see comments in violation of our rules, please report them."                                                                                                                                                                                                   
+ [4] "I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."                                                                                                                      
+ [5] "House Republicans are trying to invalidate the 2018 elections."                                                                                                                                                                                                       
+ [6] "And doing nothing to protect the 2020 elections from foreign interference."                                                                                                                                                                                           
+ [7] "They’re also trying to invalidate the 2008 and 2012 elections."                                                                                                                                                                                                       
+ [8] "House Republican are trying to invalidate the Enlightenment."                                                                                                                                                                                                         
+ [9] "Elections have consequences."                                                                                                                                                                                                                                         
+[10] "Ignoring the midterms, it seems."                                                                                                                                                                                                                                     
+[11] "hey, as long as it gives them warm fuzzies, they'll conveniently forget just about anything."                                                                                                                                                                         
+[12] "\"Americans, not Nancy Pelosi and Adam Schiff, will decide for themselves at the ballot box. That’s how our system works.\""                                                                                                                                          
+[13] "Trump is openly asking foreign countries to interfere in that very election process! (again) This whole \"forget impeachment and let the people vote \" argument is bullshit."                                                                                        
+[14] "will decide for themselves at the ballot box."                                                                                                                                                                                                                        
+[15] "Yeah. The ballot box elected Clinton, you shitweasels."                                                                                                                                                                                                               
+[16] "The EC is constitutional and so is this. Eat a bowl of dicks, GOP."                                                                                                                                                                                                   
+[17] "Let other people vote. Not our people"                                                                                                                                                                                                                                
+[18] "That stuff is fine, but make sure you don’t lie about a consensual blowjob, apparently."                                                                                                                                                                              
+[19] "Republicans are trying to invalidate the Constitution and the rule of law"                                                                                                                                                                                            
+[20] "Damn House Democrats with their Constitution and phony emoluments clause!"                                                                                                                                                                                            
+[21] "If being elected precluded one from ever being impeached and removed then no president could ever be impeached."                                                                                                                                                      
+[22] "The founders explicitly applied the process of impeachment to the office of the president in the constitution. Thus, you are wrong."                                                                                                                                  
+[23] "This “they’re trying to overturn the election!” shit is being said by many of the very same politicians who worked to impeach Bill Clinton."                                                                                                                          
+[24] "By Matt \"abuse of power is not a crime\" Whitaker... Hard Pass."                                                                                                                                                                                                     
+[25] "This is a lie and a terrible argument. Winning an election doesn't mean you can't be kicked out. Impeachment was put in the Constitution for a reason."                                                                                                               
+[26] "Question: If Matt Whitaker fed information, classified or otherwise, about the Mueller investigation to trump and we find evidence, could he be charged with crimes for that?"                                                                                        
+[27] "I mean I guess it could be that, but it could also be that Trump is a criminal."                                                                                                                                                                                      
+[28] "Impeachment Is Not a Coup - And no matter what Trump thinks, the president does not embody the will of the people:"                                                                                                                                                   
+[29] "https://www.nytimes.com/2019/10/30/opinion/trump-impeachment-coup.html"                                                                                                                                                                                               
+[30] "The people spoke in 2018. Elections have consequences. Stop trying to pretend we haven't had an election since 2016."                                                                                                                                                 
+[1] "1 minute ago"  "1 minute ago"  "1 minute ago"  "4 minutes ago"
+[5] "4 minutes ago" "5 minutes ago" "8 minutes ago" "9 minutes ago"
+[1] "https://www.reddit.com/r/politics/comments/dptabi/grassley_on_impeachment_democrats_trying_to_undo/"
+[2] "https://www.reddit.com/r/politics/comments/dpta1g/evans_theres_too_little_talk_about_corporate/"    
+[3] "https://www.reddit.com/r/politics/comments/dpta0d/sums_it_up_dem_rep_dresses_in_batman_costume_as/" 
+[4] "https://www.reddit.com/r/politics/comments/dpt8qz/republicans_should_reject_the_houses_recent/"     
+[5] "https://www.reddit.com/r/politics/comments/dpt8kf/in_the_documents_interior_department_officials/"  
+[6] "https://www.reddit.com/r/politics/comments/dpt84m/edward_snowden_says_facebook_is_just_as/"         
+[7] "https://www.reddit.com/r/politics/comments/dpt6wl/number_of_uninsured_children_rises_in_15_states/" 
+[8] "https://www.reddit.com/r/politics/comments/dpt6d4/an_elizabeth_warren_presidency_may_not_be_as_bad/"
+                                                                                                 Urls
+1 https://www.reddit.com/r/politics/comments/dptabi/grassley_on_impeachment_democrats_trying_to_undo/
+2     https://www.reddit.com/r/politics/comments/dpta1g/evans_theres_too_little_talk_about_corporate/
+3  https://www.reddit.com/r/politics/comments/dpta0d/sums_it_up_dem_rep_dresses_in_batman_costume_as/
+4      https://www.reddit.com/r/politics/comments/dpt8qz/republicans_should_reject_the_houses_recent/
+5   https://www.reddit.com/r/politics/comments/dpt8kf/in_the_documents_interior_department_officials/
+6          https://www.reddit.com/r/politics/comments/dpt84m/edward_snowden_says_facebook_is_just_as/
+           Time
+1  1 minute ago
+2  1 minute ago
+3  1 minute ago
+4 4 minutes ago
+5 4 minutes ago
+6 5 minutes ago
+[1] 8 2
+Error in `[.data.frame`(web_page_times, grep("minutes|now", web_page_times$Time)) : 
+  undefined columns selected
+Calls: [ -> [.data.frame
+Execution halted
+Loading required package: xml2
+[1] "House Democrats are just trying to invalidate the 2016 election of President Donald Trump : politics"
+ [1] "As a reminder, this subreddit is for civil discussion."                                                                                                                                                                                                               
+ [2] "In general, be courteous to others. Debate/discuss/argue the merits of ideas, don't attack people. Personal insults, shill or troll accusations, hate speech, any advocating or wishing death/physical harm, and other rule violations can result in a permanent ban."
+ [3] "If you see comments in violation of our rules, please report them."                                                                                                                                                                                                   
+ [4] "I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."                                                                                                                      
+ [5] "House Republicans are trying to invalidate the 2018 elections."                                                                                                                                                                                                       
+ [6] "And doing nothing to protect the 2020 elections from foreign interference."                                                                                                                                                                                           
+ [7] "They’re also trying to invalidate the 2008 and 2012 elections."                                                                                                                                                                                                       
+ [8] "House Republican are trying to invalidate the Enlightenment."                                                                                                                                                                                                         
+ [9] "Elections have consequences."                                                                                                                                                                                                                                         
+[10] "Ignoring the midterms, it seems."                                                                                                                                                                                                                                     
+[11] "hey, as long as it gives them warm fuzzies, they'll conveniently forget just about anything."                                                                                                                                                                         
+[12] "\"Americans, not Nancy Pelosi and Adam Schiff, will decide for themselves at the ballot box. That’s how our system works.\""                                                                                                                                          
+[13] "Trump is openly asking foreign countries to interfere in that very election process! (again) This whole \"forget impeachment and let the people vote \" argument is bullshit."                                                                                        
+[14] "will decide for themselves at the ballot box."                                                                                                                                                                                                                        
+[15] "Yeah. The ballot box elected Clinton, you shitweasels."                                                                                                                                                                                                               
+[16] "The EC is constitutional and so is this. Eat a bowl of dicks, GOP."                                                                                                                                                                                                   
+[17] "Let other people vote. Not our people"                                                                                                                                                                                                                                
+[18] "That stuff is fine, but make sure you don’t lie about a consensual blowjob, apparently."                                                                                                                                                                              
+[19] "Republicans are trying to invalidate the Constitution and the rule of law"                                                                                                                                                                                            
+[20] "Damn House Democrats with their Constitution and phony emoluments clause!"                                                                                                                                                                                            
+[21] "If being elected precluded one from ever being impeached and removed then no president could ever be impeached."                                                                                                                                                      
+[22] "The founders explicitly applied the process of impeachment to the office of the president in the constitution. Thus, you are wrong."                                                                                                                                  
+[23] "This “they’re trying to overturn the election!” shit is being said by many of the very same politicians who worked to impeach Bill Clinton."                                                                                                                          
+[24] "By Matt \"abuse of power is not a crime\" Whitaker... Hard Pass."                                                                                                                                                                                                     
+[25] "This is a lie and a terrible argument. Winning an election doesn't mean you can't be kicked out. Impeachment was put in the Constitution for a reason."                                                                                                               
+[26] "Question: If Matt Whitaker fed information, classified or otherwise, about the Mueller investigation to trump and we find evidence, could he be charged with crimes for that?"                                                                                        
+[27] "I mean I guess it could be that, but it could also be that Trump is a criminal."                                                                                                                                                                                      
+[28] "Impeachment Is Not a Coup - And no matter what Trump thinks, the president does not embody the will of the people:"                                                                                                                                                   
+[29] "https://www.nytimes.com/2019/10/30/opinion/trump-impeachment-coup.html"                                                                                                                                                                                               
+[30] "The people spoke in 2018. Elections have consequences. Stop trying to pretend we haven't had an election since 2016."                                                                                                                                                 
+[1] "just now"       "3 minutes ago"  "4 minutes ago"  "4 minutes ago" 
+[5] "6 minutes ago"  "6 minutes ago"  "7 minutes ago"  "10 minutes ago"
+[1] "https://www.reddit.com/r/politics/comments/dptc49/trump_offers_brexit_advice_during_british_radio/" 
+[2] "https://www.reddit.com/r/politics/comments/dptabi/grassley_on_impeachment_democrats_trying_to_undo/"
+[3] "https://www.reddit.com/r/politics/comments/dpta1g/evans_theres_too_little_talk_about_corporate/"    
+[4] "https://www.reddit.com/r/politics/comments/dpta0d/sums_it_up_dem_rep_dresses_in_batman_costume_as/" 
+[5] "https://www.reddit.com/r/politics/comments/dpt8qz/republicans_should_reject_the_houses_recent/"     
+[6] "https://www.reddit.com/r/politics/comments/dpt8kf/in_the_documents_interior_department_officials/"  
+[7] "https://www.reddit.com/r/politics/comments/dpt84m/edward_snowden_says_facebook_is_just_as/"         
+[8] "https://www.reddit.com/r/politics/comments/dpt6wl/number_of_uninsured_children_rises_in_15_states/" 
+                                                                                                 Urls
+1  https://www.reddit.com/r/politics/comments/dptc49/trump_offers_brexit_advice_during_british_radio/
+2 https://www.reddit.com/r/politics/comments/dptabi/grassley_on_impeachment_democrats_trying_to_undo/
+3     https://www.reddit.com/r/politics/comments/dpta1g/evans_theres_too_little_talk_about_corporate/
+4  https://www.reddit.com/r/politics/comments/dpta0d/sums_it_up_dem_rep_dresses_in_batman_costume_as/
+5      https://www.reddit.com/r/politics/comments/dpt8qz/republicans_should_reject_the_houses_recent/
+6   https://www.reddit.com/r/politics/comments/dpt8kf/in_the_documents_interior_department_officials/
+           Time
+1      just now
+2 3 minutes ago
+3 4 minutes ago
+4 4 minutes ago
+5 6 minutes ago
+6 6 minutes ago
+[1] 8 2
+Error in `[.data.frame`(web_page_times, grep("minutes|now", web_page_times$Time)) : 
+  undefined columns selected
+Calls: [ -> [.data.frame
+Execution halted
+Loading required package: xml2
+[1] "House Democrats are just trying to invalidate the 2016 election of President Donald Trump : politics"
+ [1] "As a reminder, this subreddit is for civil discussion."                                                                                                                                                                                                               
+ [2] "In general, be courteous to others. Debate/discuss/argue the merits of ideas, don't attack people. Personal insults, shill or troll accusations, hate speech, any advocating or wishing death/physical harm, and other rule violations can result in a permanent ban."
+ [3] "If you see comments in violation of our rules, please report them."                                                                                                                                                                                                   
+ [4] "I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."                                                                                                                      
+ [5] "House Republicans are trying to invalidate the 2018 elections."                                                                                                                                                                                                       
+ [6] "And doing nothing to protect the 2020 elections from foreign interference."                                                                                                                                                                                           
+ [7] "They’re also trying to invalidate the 2008 and 2012 elections."                                                                                                                                                                                                       
+ [8] "House Republican are trying to invalidate the Enlightenment."                                                                                                                                                                                                         
+ [9] "Elections have consequences."                                                                                                                                                                                                                                         
+[10] "Ignoring the midterms, it seems."                                                                                                                                                                                                                                     
+[11] "hey, as long as it gives them warm fuzzies, they'll conveniently forget just about anything."                                                                                                                                                                         
+[12] "\"Americans, not Nancy Pelosi and Adam Schiff, will decide for themselves at the ballot box. That’s how our system works.\""                                                                                                                                          
+[13] "Trump is openly asking foreign countries to interfere in that very election process! (again) This whole \"forget impeachment and let the people vote \" argument is bullshit."                                                                                        
+[14] "will decide for themselves at the ballot box."                                                                                                                                                                                                                        
+[15] "Yeah. The ballot box elected Clinton, you shitweasels."                                                                                                                                                                                                               
+[16] "The EC is constitutional and so is this. Eat a bowl of dicks, GOP."                                                                                                                                                                                                   
+[17] "Let other people vote. Not our people"                                                                                                                                                                                                                                
+[18] "That stuff is fine, but make sure you don’t lie about a consensual blowjob, apparently."                                                                                                                                                                              
+[19] "Republicans are trying to invalidate the Constitution and the rule of law"                                                                                                                                                                                            
+[20] "Damn House Democrats with their Constitution and phony emoluments clause!"                                                                                                                                                                                            
+[21] "If being elected precluded one from ever being impeached and removed then no president could ever be impeached."                                                                                                                                                      
+[22] "The founders explicitly applied the process of impeachment to the office of the president in the constitution. Thus, you are wrong."                                                                                                                                  
+[23] "This “they’re trying to overturn the election!” shit is being said by many of the very same politicians who worked to impeach Bill Clinton."                                                                                                                          
+[24] "By Matt \"abuse of power is not a crime\" Whitaker... Hard Pass."                                                                                                                                                                                                     
+[25] "This is a lie and a terrible argument. Winning an election doesn't mean you can't be kicked out. Impeachment was put in the Constitution for a reason."                                                                                                               
+[26] "Question: If Matt Whitaker fed information, classified or otherwise, about the Mueller investigation to trump and we find evidence, could he be charged with crimes for that?"                                                                                        
+[27] "I mean I guess it could be that, but it could also be that Trump is a criminal."                                                                                                                                                                                      
+[28] "Impeachment Is Not a Coup - And no matter what Trump thinks, the president does not embody the will of the people:"                                                                                                                                                   
+[29] "https://www.nytimes.com/2019/10/30/opinion/trump-impeachment-coup.html"                                                                                                                                                                                               
+[30] "The people spoke in 2018. Elections have consequences. Stop trying to pretend we haven't had an election since 2016."                                                                                                                                                 
+[1] "just now"      "just now"      "4 minutes ago" "4 minutes ago"
+[5] "4 minutes ago" "7 minutes ago" "7 minutes ago" "8 minutes ago"
+[1] "https://www.reddit.com/r/politics/comments/dptcnz/billionaires_letter_to_elizabeth_warren_accuses/" 
+[2] "https://www.reddit.com/r/politics/comments/dptc49/trump_offers_brexit_advice_during_british_radio/" 
+[3] "https://www.reddit.com/r/politics/comments/dptabi/grassley_on_impeachment_democrats_trying_to_undo/"
+[4] "https://www.reddit.com/r/politics/comments/dpta1g/evans_theres_too_little_talk_about_corporate/"    
+[5] "https://www.reddit.com/r/politics/comments/dpta0d/sums_it_up_dem_rep_dresses_in_batman_costume_as/" 
+[6] "https://www.reddit.com/r/politics/comments/dpt8qz/republicans_should_reject_the_houses_recent/"     
+[7] "https://www.reddit.com/r/politics/comments/dpt8kf/in_the_documents_interior_department_officials/"  
+[8] "https://www.reddit.com/r/politics/comments/dpt84m/edward_snowden_says_facebook_is_just_as/"         
+                                                                                                 Urls
+1  https://www.reddit.com/r/politics/comments/dptcnz/billionaires_letter_to_elizabeth_warren_accuses/
+2  https://www.reddit.com/r/politics/comments/dptc49/trump_offers_brexit_advice_during_british_radio/
+3 https://www.reddit.com/r/politics/comments/dptabi/grassley_on_impeachment_democrats_trying_to_undo/
+4     https://www.reddit.com/r/politics/comments/dpta1g/evans_theres_too_little_talk_about_corporate/
+5  https://www.reddit.com/r/politics/comments/dpta0d/sums_it_up_dem_rep_dresses_in_batman_costume_as/
+6      https://www.reddit.com/r/politics/comments/dpt8qz/republicans_should_reject_the_houses_recent/
+           Time
+1      just now
+2      just now
+3 4 minutes ago
+4 4 minutes ago
+5 4 minutes ago
+6 7 minutes ago
+[1] 8 2
+Error in `[.data.frame`(web_page_times, grep("minutes|now", web_page_times$Time)) : 
+  undefined columns selected
+Calls: [ -> [.data.frame
+Execution halted
+Loading required package: xml2
+[1] "House Democrats are just trying to invalidate the 2016 election of President Donald Trump : politics"
+ [1] "As a reminder, this subreddit is for civil discussion."                                                                                                                                                                                                               
+ [2] "In general, be courteous to others. Debate/discuss/argue the merits of ideas, don't attack people. Personal insults, shill or troll accusations, hate speech, any advocating or wishing death/physical harm, and other rule violations can result in a permanent ban."
+ [3] "If you see comments in violation of our rules, please report them."                                                                                                                                                                                                   
+ [4] "I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."                                                                                                                      
+ [5] "House Republicans are trying to invalidate the 2018 elections."                                                                                                                                                                                                       
+ [6] "And doing nothing to protect the 2020 elections from foreign interference."                                                                                                                                                                                           
+ [7] "They’re also trying to invalidate the 2008 and 2012 elections."                                                                                                                                                                                                       
+ [8] "House Republican are trying to invalidate the Enlightenment."                                                                                                                                                                                                         
+ [9] "Elections have consequences."                                                                                                                                                                                                                                         
+[10] "Ignoring the midterms, it seems."                                                                                                                                                                                                                                     
+[11] "hey, as long as it gives them warm fuzzies, they'll conveniently forget just about anything."                                                                                                                                                                         
+[12] "\"Americans, not Nancy Pelosi and Adam Schiff, will decide for themselves at the ballot box. That’s how our system works.\""                                                                                                                                          
+[13] "Trump is openly asking foreign countries to interfere in that very election process! (again) This whole \"forget impeachment and let the people vote \" argument is bullshit."                                                                                        
+[14] "will decide for themselves at the ballot box."                                                                                                                                                                                                                        
+[15] "Yeah. The ballot box elected Clinton, you shitweasels."                                                                                                                                                                                                               
+[16] "The EC is constitutional and so is this. Eat a bowl of dicks, GOP."                                                                                                                                                                                                   
+[17] "Let other people vote. Not our people"                                                                                                                                                                                                                                
+[18] "That stuff is fine, but make sure you don’t lie about a consensual blowjob, apparently."                                                                                                                                                                              
+[19] "Republicans are trying to invalidate the Constitution and the rule of law"                                                                                                                                                                                            
+[20] "Damn House Democrats with their Constitution and phony emoluments clause!"                                                                                                                                                                                            
+[21] "If being elected precluded one from ever being impeached and removed then no president could ever be impeached."                                                                                                                                                      
+[22] "The founders explicitly applied the process of impeachment to the office of the president in the constitution. Thus, you are wrong."                                                                                                                                  
+[23] "This “they’re trying to overturn the election!” shit is being said by many of the very same politicians who worked to impeach Bill Clinton."                                                                                                                          
+[24] "By Matt \"abuse of power is not a crime\" Whitaker... Hard Pass."                                                                                                                                                                                                     
+[25] "This is a lie and a terrible argument. Winning an election doesn't mean you can't be kicked out. Impeachment was put in the Constitution for a reason."                                                                                                               
+[26] "Question: If Matt Whitaker fed information, classified or otherwise, about the Mueller investigation to trump and we find evidence, could he be charged with crimes for that?"                                                                                        
+[27] "I mean I guess it could be that, but it could also be that Trump is a criminal."                                                                                                                                                                                      
+[28] "Impeachment Is Not a Coup - And no matter what Trump thinks, the president does not embody the will of the people:"                                                                                                                                                   
+[29] "https://www.nytimes.com/2019/10/30/opinion/trump-impeachment-coup.html"                                                                                                                                                                                               
+[30] "The people spoke in 2018. Elections have consequences. Stop trying to pretend we haven't had an election since 2016."                                                                                                                                                 
+[1] "1 minute ago"  "2 minutes ago" "5 minutes ago" "6 minutes ago"
+[5] "6 minutes ago" "8 minutes ago" "8 minutes ago" "9 minutes ago"
+[1] "https://www.reddit.com/r/politics/comments/dptcnz/billionaires_letter_to_elizabeth_warren_accuses/" 
+[2] "https://www.reddit.com/r/politics/comments/dptc49/trump_offers_brexit_advice_during_british_radio/" 
+[3] "https://www.reddit.com/r/politics/comments/dptabi/grassley_on_impeachment_democrats_trying_to_undo/"
+[4] "https://www.reddit.com/r/politics/comments/dpta1g/evans_theres_too_little_talk_about_corporate/"    
+[5] "https://www.reddit.com/r/politics/comments/dpta0d/sums_it_up_dem_rep_dresses_in_batman_costume_as/" 
+[6] "https://www.reddit.com/r/politics/comments/dpt8qz/republicans_should_reject_the_houses_recent/"     
+[7] "https://www.reddit.com/r/politics/comments/dpt8kf/in_the_documents_interior_department_officials/"  
+[8] "https://www.reddit.com/r/politics/comments/dpt84m/edward_snowden_says_facebook_is_just_as/"         
+                                                                                                 Urls
+1  https://www.reddit.com/r/politics/comments/dptcnz/billionaires_letter_to_elizabeth_warren_accuses/
+2  https://www.reddit.com/r/politics/comments/dptc49/trump_offers_brexit_advice_during_british_radio/
+3 https://www.reddit.com/r/politics/comments/dptabi/grassley_on_impeachment_democrats_trying_to_undo/
+4     https://www.reddit.com/r/politics/comments/dpta1g/evans_theres_too_little_talk_about_corporate/
+5  https://www.reddit.com/r/politics/comments/dpta0d/sums_it_up_dem_rep_dresses_in_batman_costume_as/
+6      https://www.reddit.com/r/politics/comments/dpt8qz/republicans_should_reject_the_houses_recent/
+           Time
+1  1 minute ago
+2 2 minutes ago
+3 5 minutes ago
+4 6 minutes ago
+5 6 minutes ago
+6 8 minutes ago
+[1] 8 2
+Error in `[.data.frame`(web_page_times, grep("minutes|now", web_page_times$Time)) : 
+  undefined columns selected
+Calls: [ -> [.data.frame
+Execution halted
+Loading required package: xml2
+[1] "House Democrats are just trying to invalidate the 2016 election of President Donald Trump : politics"
+ [1] "As a reminder, this subreddit is for civil discussion."                                                                                                                                                                                                               
+ [2] "In general, be courteous to others. Debate/discuss/argue the merits of ideas, don't attack people. Personal insults, shill or troll accusations, hate speech, any advocating or wishing death/physical harm, and other rule violations can result in a permanent ban."
+ [3] "If you see comments in violation of our rules, please report them."                                                                                                                                                                                                   
+ [4] "I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."                                                                                                                      
+ [5] "House Republicans are trying to invalidate the 2018 elections."                                                                                                                                                                                                       
+ [6] "And doing nothing to protect the 2020 elections from foreign interference."                                                                                                                                                                                           
+ [7] "They’re also trying to invalidate the 2008 and 2012 elections."                                                                                                                                                                                                       
+ [8] "House Republican are trying to invalidate the Enlightenment."                                                                                                                                                                                                         
+ [9] "Elections have consequences."                                                                                                                                                                                                                                         
+[10] "Ignoring the midterms, it seems."                                                                                                                                                                                                                                     
+[11] "hey, as long as it gives them warm fuzzies, they'll conveniently forget just about anything."                                                                                                                                                                         
+[12] "\"Americans, not Nancy Pelosi and Adam Schiff, will decide for themselves at the ballot box. That’s how our system works.\""                                                                                                                                          
+[13] "Trump is openly asking foreign countries to interfere in that very election process! (again) This whole \"forget impeachment and let the people vote \" argument is bullshit."                                                                                        
+[14] "will decide for themselves at the ballot box."                                                                                                                                                                                                                        
+[15] "Yeah. The ballot box elected Clinton, you shitweasels."                                                                                                                                                                                                               
+[16] "The EC is constitutional and so is this. Eat a bowl of dicks, GOP."                                                                                                                                                                                                   
+[17] "Let other people vote. Not our people"                                                                                                                                                                                                                                
+[18] "That stuff is fine, but make sure you don’t lie about a consensual blowjob, apparently."                                                                                                                                                                              
+[19] "Republicans are trying to invalidate the Constitution and the rule of law"                                                                                                                                                                                            
+[20] "Damn House Democrats with their Constitution and phony emoluments clause!"                                                                                                                                                                                            
+[21] "If being elected precluded one from ever being impeached and removed then no president could ever be impeached."                                                                                                                                                      
+[22] "The founders explicitly applied the process of impeachment to the office of the president in the constitution. Thus, you are wrong."                                                                                                                                  
+[23] "This “they’re trying to overturn the election!” shit is being said by many of the very same politicians who worked to impeach Bill Clinton."                                                                                                                          
+[24] "By Matt \"abuse of power is not a crime\" Whitaker... Hard Pass."                                                                                                                                                                                                     
+[25] "This is a lie and a terrible argument. Winning an election doesn't mean you can't be kicked out. Impeachment was put in the Constitution for a reason."                                                                                                               
+[26] "Question: If Matt Whitaker fed information, classified or otherwise, about the Mueller investigation to trump and we find evidence, could he be charged with crimes for that?"                                                                                        
+[27] "I mean I guess it could be that, but it could also be that Trump is a criminal."                                                                                                                                                                                      
+[28] "Impeachment Is Not a Coup - And no matter what Trump thinks, the president does not embody the will of the people:"                                                                                                                                                   
+[29] "https://www.nytimes.com/2019/10/30/opinion/trump-impeachment-coup.html"                                                                                                                                                                                               
+[30] "The people spoke in 2018. Elections have consequences. Stop trying to pretend we haven't had an election since 2016."                                                                                                                                                 
+[1] "2 minutes ago"  "3 minutes ago"  "6 minutes ago"  "6 minutes ago" 
+[5] "7 minutes ago"  "9 minutes ago"  "9 minutes ago"  "10 minutes ago"
+[1] "https://www.reddit.com/r/politics/comments/dptcnz/billionaires_letter_to_elizabeth_warren_accuses/" 
+[2] "https://www.reddit.com/r/politics/comments/dptc49/trump_offers_brexit_advice_during_british_radio/" 
+[3] "https://www.reddit.com/r/politics/comments/dptabi/grassley_on_impeachment_democrats_trying_to_undo/"
+[4] "https://www.reddit.com/r/politics/comments/dpta1g/evans_theres_too_little_talk_about_corporate/"    
+[5] "https://www.reddit.com/r/politics/comments/dpta0d/sums_it_up_dem_rep_dresses_in_batman_costume_as/" 
+[6] "https://www.reddit.com/r/politics/comments/dpt8qz/republicans_should_reject_the_houses_recent/"     
+[7] "https://www.reddit.com/r/politics/comments/dpt8kf/in_the_documents_interior_department_officials/"  
+[8] "https://www.reddit.com/r/politics/comments/dpt84m/edward_snowden_says_facebook_is_just_as/"         
+                                                                                                 Urls
+1  https://www.reddit.com/r/politics/comments/dptcnz/billionaires_letter_to_elizabeth_warren_accuses/
+2  https://www.reddit.com/r/politics/comments/dptc49/trump_offers_brexit_advice_during_british_radio/
+3 https://www.reddit.com/r/politics/comments/dptabi/grassley_on_impeachment_democrats_trying_to_undo/
+4     https://www.reddit.com/r/politics/comments/dpta1g/evans_theres_too_little_talk_about_corporate/
+5  https://www.reddit.com/r/politics/comments/dpta0d/sums_it_up_dem_rep_dresses_in_batman_costume_as/
+6      https://www.reddit.com/r/politics/comments/dpt8qz/republicans_should_reject_the_houses_recent/
+           Time
+1 2 minutes ago
+2 3 minutes ago
+3 6 minutes ago
+4 6 minutes ago
+5 7 minutes ago
+6 9 minutes ago
+[1] 8 2
+Error in `[.data.frame`(web_page_times, grep("minutes|now", web_page_times$Time)) : 
+  undefined columns selected
+Calls: [ -> [.data.frame
+Execution halted
+Loading required package: xml2
+[1] "House Democrats are just trying to invalidate the 2016 election of President Donald Trump : politics"
+ [1] "As a reminder, this subreddit is for civil discussion."                                                                                                                                                                                                               
+ [2] "In general, be courteous to others. Debate/discuss/argue the merits of ideas, don't attack people. Personal insults, shill or troll accusations, hate speech, any advocating or wishing death/physical harm, and other rule violations can result in a permanent ban."
+ [3] "If you see comments in violation of our rules, please report them."                                                                                                                                                                                                   
+ [4] "I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."                                                                                                                      
+ [5] "House Republicans are trying to invalidate the 2018 elections."                                                                                                                                                                                                       
+ [6] "And doing nothing to protect the 2020 elections from foreign interference."                                                                                                                                                                                           
+ [7] "They’re also trying to invalidate the 2008 and 2012 elections."                                                                                                                                                                                                       
+ [8] "House Republican are trying to invalidate the Enlightenment."                                                                                                                                                                                                         
+ [9] "Elections have consequences."                                                                                                                                                                                                                                         
+[10] "Ignoring the midterms, it seems."                                                                                                                                                                                                                                     
+[11] "hey, as long as it gives them warm fuzzies, they'll conveniently forget just about anything."                                                                                                                                                                         
+[12] "\"Americans, not Nancy Pelosi and Adam Schiff, will decide for themselves at the ballot box. That’s how our system works.\""                                                                                                                                          
+[13] "Trump is openly asking foreign countries to interfere in that very election process! (again) This whole \"forget impeachment and let the people vote \" argument is bullshit."                                                                                        
+[14] "will decide for themselves at the ballot box."                                                                                                                                                                                                                        
+[15] "Yeah. The ballot box elected Clinton, you shitweasels."                                                                                                                                                                                                               
+[16] "The EC is constitutional and so is this. Eat a bowl of dicks, GOP."                                                                                                                                                                                                   
+[17] "Let other people vote. Not our people"                                                                                                                                                                                                                                
+[18] "That stuff is fine, but make sure you don’t lie about a consensual blowjob, apparently."                                                                                                                                                                              
+[19] "Republicans are trying to invalidate the Constitution and the rule of law"                                                                                                                                                                                            
+[20] "Damn House Democrats with their Constitution and phony emoluments clause!"                                                                                                                                                                                            
+[21] "If being elected precluded one from ever being impeached and removed then no president could ever be impeached."                                                                                                                                                      
+[22] "The founders explicitly applied the process of impeachment to the office of the president in the constitution. Thus, you are wrong."                                                                                                                                  
+[23] "This “they’re trying to overturn the election!” shit is being said by many of the very same politicians who worked to impeach Bill Clinton."                                                                                                                          
+[24] "By Matt \"abuse of power is not a crime\" Whitaker... Hard Pass."                                                                                                                                                                                                     
+[25] "This is a lie and a terrible argument. Winning an election doesn't mean you can't be kicked out. Impeachment was put in the Constitution for a reason."                                                                                                               
+[26] "Question: If Matt Whitaker fed information, classified or otherwise, about the Mueller investigation to trump and we find evidence, could he be charged with crimes for that?"                                                                                        
+[27] "I mean I guess it could be that, but it could also be that Trump is a criminal."                                                                                                                                                                                      
+[28] "Impeachment Is Not a Coup - And no matter what Trump thinks, the president does not embody the will of the people:"                                                                                                                                                   
+[29] "https://www.nytimes.com/2019/10/30/opinion/trump-impeachment-coup.html"                                                                                                                                                                                               
+[30] "The people spoke in 2018. Elections have consequences. Stop trying to pretend we haven't had an election since 2016."                                                                                                                                                 
+[1] "just now"       "3 minutes ago"  "3 minutes ago"  "7 minutes ago" 
+[5] "7 minutes ago"  "7 minutes ago"  "10 minutes ago" "10 minutes ago"
+[1] "https://www.reddit.com/r/politics/comments/dptdtr/why_those_endless_wars_must_never_end/"           
+[2] "https://www.reddit.com/r/politics/comments/dptcnz/billionaires_letter_to_elizabeth_warren_accuses/" 
+[3] "https://www.reddit.com/r/politics/comments/dptc49/trump_offers_brexit_advice_during_british_radio/" 
+[4] "https://www.reddit.com/r/politics/comments/dptabi/grassley_on_impeachment_democrats_trying_to_undo/"
+[5] "https://www.reddit.com/r/politics/comments/dpta1g/evans_theres_too_little_talk_about_corporate/"    
+[6] "https://www.reddit.com/r/politics/comments/dpta0d/sums_it_up_dem_rep_dresses_in_batman_costume_as/" 
+[7] "https://www.reddit.com/r/politics/comments/dpt8qz/republicans_should_reject_the_houses_recent/"     
+[8] "https://www.reddit.com/r/politics/comments/dpt8kf/in_the_documents_interior_department_officials/"  
+                                                                                                 Urls
+1            https://www.reddit.com/r/politics/comments/dptdtr/why_those_endless_wars_must_never_end/
+2  https://www.reddit.com/r/politics/comments/dptcnz/billionaires_letter_to_elizabeth_warren_accuses/
+3  https://www.reddit.com/r/politics/comments/dptc49/trump_offers_brexit_advice_during_british_radio/
+4 https://www.reddit.com/r/politics/comments/dptabi/grassley_on_impeachment_democrats_trying_to_undo/
+5     https://www.reddit.com/r/politics/comments/dpta1g/evans_theres_too_little_talk_about_corporate/
+6  https://www.reddit.com/r/politics/comments/dpta0d/sums_it_up_dem_rep_dresses_in_batman_costume_as/
+           Time
+1      just now
+2 3 minutes ago
+3 3 minutes ago
+4 7 minutes ago
+5 7 minutes ago
+6 7 minutes ago
+[1] 8 2
+Error in `[.data.frame`(web_page_times, grep("minutes|now", web_page_times$Time)) : 
+  undefined columns selected
+Calls: [ -> [.data.frame
+Execution halted
